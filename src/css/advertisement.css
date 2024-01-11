@@ -1,9 +1,16 @@
+/* .container-advirtisment {
+  padding: 0;
+} */
 .advertisment-container {
+<<<<<<< Updated upstream
   padding: 20px 0px;
+=======
+  padding: 20px 0;
+>>>>>>> Stashed changes
   overflow: hidden;
   text-transform: uppercase;
   background-color: #121212;
-  margin: 0;
+
   stroke-width: 1px;
   stroke: rgba(255, 255, 255, 0.2);
 }

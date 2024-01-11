@@ -8,21 +8,32 @@ body {
 }
 
 .container {
+<<<<<<< Updated upstream
   max-width: 375px;
   padding: 0 20px;
   margin: 0 auto;
+=======
+  margin: 0 auto;
+  min-width: 320px;
+>>>>>>> Stashed changes
 }
 
 @media screen and (min-width: 768px) {
   .container {
+<<<<<<< Updated upstream
     max-width: 768px;
     padding: 0 32px;
+=======
+>>>>>>> Stashed changes
   }
 }
 
 @media screen and (min-width: 1280px) {
   .container {
+<<<<<<< Updated upstream
     max-width: 1280px;
     padding: 0 100px;
+=======
+>>>>>>> Stashed changes
   }
 }
