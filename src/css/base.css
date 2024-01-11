@@ -1,24 +1,24 @@
 body {
-    font-family: DM Sans;
-    font-weight: 400;
-    
-    color: var(--main-color-white);
-    background-color: var(--black-color);
-    font-style: normal;
+  font-family: DM Sans;
+  font-weight: 400;
+
+  color: var(--main-color-white);
+  background-color: var(--black-color);
+  font-style: normal;
 }
 
 .container {
-    max-width: 375px;
+  max-width: 375px;
 }
 
-@media screen and (min-width:768зч) {
-    .container {
-        max-width:704px;
-    }
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 704px;
+  }
 }
 
-@media screen and (min-width:1280px) {
-    .container {
-       max-width: 1080px;
-    }
+@media screen and (min-width: 1280px) {
+  .container {
+    max-width: 1080px;
+  }
 }
